@@ -42,8 +42,8 @@ assert("file_exists('$file')") or die("That file doesn't exist!");
 		        </div>
 		    </div>
 		</nav>
-			<h1>Web Challenge 4 Assertions</h1>
 		<div class="container" style="margin-top: 50px">
+						<h1>Web Challenge 4 Assertions</h1>
 			<?php
 				require_once $file;
 			?>
